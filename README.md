@@ -33,7 +33,7 @@ pip install prompt_toolkit
 1. Download Debugger:
 
 ```bash
-wget https://raw.githubusercontent.com/uift-688/Python-Debbger/main/Debagger.py
+wget https://raw.githubusercontent.com/uift-688/Python-Debbuger/main/Debugger.py
 ```
 
 2. Run the script:
