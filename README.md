@@ -1,7 +1,3 @@
-ソースコードを公開するためのGitHubのREADMEは、プロジェクトの内容や使用方法を分かりやすく説明する重要なドキュメントです。以下に、あなたのプロジェクトに基づいた基本的なREADMEのテンプレートを提案します。必要に応じて内容をカスタマイズしてください。
-
----
-
 # Python Script Executor
 
 This is a Python script executor that allows users to select and run Python scripts. It also provides options for automatically re-running the script after a specified time interval, with customizable retries and enhanced error handling.
