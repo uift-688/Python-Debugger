@@ -2,7 +2,7 @@
 
 This is a Python script executor that allows users to select and run Python scripts. It also provides options for automatically re-running the script after a specified time interval, with customizable retries and enhanced error handling.
 
-## Features
+## Features (In case of initial release)
 
 - **File Path Auto-Completion**: Helps users easily select Python scripts using `prompt_toolkit`.
 - **Module Import Handling**: Automatically detects and imports necessary modules from the script.
@@ -10,7 +10,7 @@ This is a Python script executor that allows users to select and run Python scri
 - **Customizable Re-Runs**: Option to re-run the script after a user-defined time interval or a set number of retries.
 - **Support for Python 3.6+**: Ensures compatibility with Python 3.6 and above.
 
-## Requirements
+## Requirements (In case of initial release)
 
 - Python 3.6 or higher
 - The following Python packages are required:
